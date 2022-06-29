@@ -1,0 +1,57 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+h1 {
+	width: fit-content;
+	margin: 30px auto;
+	font-size: 40px;
+}
+
+p {
+	width: fit-content;
+	margin: 20px auto;
+	font-size: 20px;
+}
+
+#alfavite {
+	width: 70%;
+	margin: 0 auto;
+}
+
+.alphabetLetters {
+	width: 10%;
+	height: 100px;
+	background-color: white;
+	border: 1px solid;
+	margin: 0 auto;
+	font-size: 32px;
+}
+
+.main1 {
+	width: 100px;
+	height: 100px;
+	border: 1px solid black;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-size: 32px;
+}
+.main2 {
+	width: 100px;
+	height: 100px;
+	border: none;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-size: 32px;
+}
+#main {
+	width: fit-content;
+	margin: 20px auto;
+	display: flex;
+}
+/* .p{
+	display: none;
+} */
